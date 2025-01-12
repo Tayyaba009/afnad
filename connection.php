@@ -7,4 +7,6 @@ $db = new MysqliDb(
     'your_password_here',              // Replace this with your MySQL admin password
     'assignment1'                      // Replace this with your database name
 );
+ var_dump($db);
+    return 0;
 ?>
